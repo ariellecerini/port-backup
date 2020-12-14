@@ -23,13 +23,13 @@
     letter-spacing: .05px;
 
     img {
-        //height: 30px;
+        height: 30px;
     }
 }
 
 .navbar-dark {
     .navbar-brand {
-        color: $black;
+        color: $white;
     }
 }
 
@@ -168,11 +168,11 @@
     box-shadow: none;
 
     .navbar-brand {
-        color: rgba(0, 0, 0, 1);
+        color: rgba(255, 255, 255, 1);
     }
 
     .navbar-toggler {
-        color: rgba(0, 0, 0, 1);
+        color: rgba(255, 255, 255, 1);
     }
 
     .navbar-toggler-icon {
